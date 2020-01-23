@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592924135857",
+    "firebase_url": "https://icthackathon.firebaseio.com",
+    "project_id": "icthackathon",
+    "storage_bucket": "icthackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592924135857:android:e24bb107f33ad13e",
+        "android_client_info": {
+          "package_name": "com.example.icthackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592924135857-dgi7v8kracilfn7hrgnqvfbjdlm7j9d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.icthackathon",
+            "certificate_hash": "6c88eddc83e6af8e6790b25b8c25701402d8c06b"
+          }
+        },
+        {
+          "client_id": "592924135857-r15i91dpn4712thqfeuskeikkdca5utr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7dFMWXq6QeNHpQQeS5czUVEIh0dEaDno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592924135857-r15i91dpn4712thqfeuskeikkdca5utr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

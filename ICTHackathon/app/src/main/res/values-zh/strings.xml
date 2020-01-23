@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ICTHackathon</string>
+
+    <string name="Rice_and_Risotto">大米 ＆ 烩饭</string>
+    <string name="garlic_sizzling_rice">大蒜炙热的米饭</string>
+    <string name="comment">添加评</string>
+    <string name="review">评论</string>
+    <string name="description">描述</string>
+    <string name="Haundae_beach">海云台海滩</string>
+    <string name="EstimatedTime">预计的时间</string>
+    <string name="Haeundae_desc">海云台海滩通常被认为是附近的海洋城市，包括超高层摩天大楼，如Haeundae Doosaenith和Haeundae LCT The Sharp。</string>
+    <string name="homepage">重定向到主页</string>
+    <string name="WaitingTeam">等待团队</string>
+    <string name="Team">球队</string>
+    <string name="person">人</string>
+    <string name="child">儿童</string>
+    <string name="start_in_line">从头开始</string>
+    <string name="plz_scan_qr">请扫描位于商店\n前面的QRCode.</string>
+    <string name="cancel_waiting">你确定要等待吗？</string>
+    <string name="confirm">确认</string>
+    <string name="registration_number">注册号码</string>
+    <string name="th_team">团队</string>
+    <string name="cancel">取消等待</string>
+    <string name="suggestion">如何访问您附近的\n好旅游景点?</string>
+    <string name="Queue">排队</string>
+    <string name="menu">队列</string>
+    <string name="near_suggestion">建议</string>
+    <string name="currency">美元</string>
+</resources>

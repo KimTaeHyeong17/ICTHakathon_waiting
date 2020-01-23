@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ICTHackathon</string>
+
+    <string name="Rice_and_Risotto">Rice &amp; Risotto</string>
+    <string name="garlic_sizzling_rice">Garlic Sizzling Rice</string>
+    <string name="comment">add comment</string>
+    <string name="review">review</string>
+    <string name="description">description</string>
+    <string name="Haundae_beach">Haundae beach</string>
+    <string name="EstimatedTime">Estimated Time</string>
+    <string name="Haeundae_desc">Haeundae Beach is often considered  the nearby Marine City, including supertall skyscrapers such as Haeundae Doosaenith and Haeundae LCT The Sharp.</string>
+    <string name="homepage">Redirect to Homepage</string>
+    <string name="WaitingTeam">Waiting Team</string>
+    <string name="Team">Team</string>
+    <string name="person">person</string>
+    <string name="child">child</string>
+    <string name="start_in_line">start in line</string>
+    <string name="plz_scan_qr">please scan QRCode \nlocated in front of resturant.</string>
+    <string name="cancel_waiting">Are you sure to \nCancel your waiting?</string>
+    <string name="confirm">confirm</string>
+    <string name="registration_number">registered number</string>
+    <string name="th_team">th(st,rd) team</string>
+    <string name="cancel">cancel waiting</string>
+    <string name="suggestion">How about visiting \npopuler travel spot near your location?</string>
+    <string name="Queue">Queue</string>
+    <string name="menu">Menu</string>
+    <string name="near_suggestion">Suggestion</string>
+    <string name="currency">USD</string>
+</resources>

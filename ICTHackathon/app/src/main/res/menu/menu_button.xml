@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_menu1"
+        android:icon="@drawable/bottom_navigation_selecter_first"
+        android:title="@string/Queue" />
+
+    <item
+        android:id="@+id/navigation_menu2"
+        android:icon="@drawable/bottom_navigation_selector_second"
+        android:title="@string/menu" />
+
+    <item
+        android:id="@+id/navigation_menu3"
+        android:icon="@drawable/bottom_navigaion_selector_third"
+        android:title="@string/near_suggestion" />
+
+</menu>
